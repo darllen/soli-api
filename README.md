@@ -11,9 +11,9 @@ API para gerenciar os produtos de uma loja. É ossível fazer a inclusão, alter
  - Para incluir um novo produto: localhost:8080/home
  ```
   {
-    "name": "Vela Aromática - Jasmim",
+    "name": "Vela Aromática - Lavanda",
     "price": 12.20,
-    "quantity": 5
+    "quantity": 9
   }
  ```
  - Para listar todos os produtos: localhost:8080/home
