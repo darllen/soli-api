@@ -1,5 +1,5 @@
 # soli-api
-API para gerenciar os produtos de uma loja. É ossível fazer a inclusão, alteração, consulta, listagem e exclusão de produtos. 
+API para gerenciar os produtos de uma loja. É possível fazer a inclusão, alteração, consulta, listagem e exclusão de produtos. 
 
 ## Tech
 ➡︎ Java 17 <br>
